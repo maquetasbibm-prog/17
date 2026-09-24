@@ -795,8 +795,6 @@ http://204.157.185.4:8000/play/a0ou/index.m3u8
 http://204.157.185.4:8000/play/a0os/index.m3u8
 #EXTINF:-1 group-title="Tnt sports",TNT Sports Premiun HD
 http://204.157.185.4:8000/play/a0gj/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png" group-title="DEPORTES",Win sports
-https://streamtp.sbs/global1.php?stream=winsports
 #EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png" group-title="DEPORTES" ,110-WIN +
 #EXTVLCOPT:network-caching=1000
 http://181.78.0.107:8006/play/a08x/index.m3u8
@@ -826,28 +824,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="DEPORTES",CLARO SPORTS MX
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
-#EXTINF:-1,TNT SPORTS
-http://201.182.249.10:8000/play/a0lg/index.m3u8
-#EXTINF:-1,TNT Sports Premium SD
-http://201.182.249.10:8000/play/a0m9/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
-http://201.182.249.10:8000/play/a0mh/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://201.182.249.10:8000/play/a0lr/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://201.182.249.10:8000/play/a0m2/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://201.182.249.10:8000/play/a0nd/index.m3u8
-#EXTINF:-1,ESPN 5 HD
-http://201.182.249.10:8000/play/a0ls/index.m3u8
-#EXTINF:-1,ESPN 6 HD
-http://201.182.249.10:8000/play/a0ll/index.m3u8
-#EXTINF:-1,ESPN 7 HD
-http://201.182.249.10:8000/play/a0n6/index.m3u8
-#EXTINF:-1,ESPN HD
-http://201.182.249.10:8000/play/a0jq/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://201.182.249.10:8000/play/a0mq/index.m3u8
 #EXTINF:-1 group-title="Espn",ESPN 2 HD
 http://38.188.48.83:8000/play/a0o1/index.m3u8
 #EXTINF:-1 group-title="Espn",ESPN 3
@@ -890,9 +866,6 @@ http://tvc.lat:2082/play/mcblov4jncvOxJ7QjVaKWdWpU208sXbtA9FDybUEvlgKEtQrwI0mFWM
 http://tvc.lat:2082/play/mcblov4jncvOxJ7QjVaKWdWpU208sXbtA9FDybUEvlgUVgZoKtNmRQTdlW2Yf4Sc/ts
 #EXTINF:-1 tvg-name="| TUDNxtra 4 |" tvg-logo="http://tvc.lat:2082/images/fluxplay-canal-default.png" group-title="Tudn" xui-id="513282",| TUDNxtra 4 |
 http://tvc.lat:2082/play/mcblov4jncvOxJ7QjVaKWdWpU208sXbtA9FDybUEvlgYpwQ8UB9evWZLZYtV1oG3/ts
-#EXTINF:5 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="DEPORTES",Fox Sports (720p)
-#EXTVLCOPT:network-caching=1000
-https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",1 ADN TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES CHILE",2 BIO BIO TV
@@ -1225,8 +1198,6 @@ http://blushes.top:80/live/466634866/Y896v1908W/249247.m3u8
 http://170.244.209.30:8000/play/a1hw/index.m3u8
 #EXTINF:-1 group-title="OTROS",13-Sinart
 http://170.244.209.30:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="OTROS",24/7
-http://170.244.209.30:8000/play/a1hl/index.m3u8
 #EXTINF:-1 group-title="OTROS",4 Repretel
 http://170.244.209.30:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="OTROS",42 - Extra TV 42
@@ -1305,8 +1276,6 @@ http://170.244.209.30:8000/play/a04e/index.m3u8
 http://170.244.209.30:8000/play/a0hd/index.m3u8
 #EXTINF:-1 group-title="OTROS",CINECANAL HD
 http://170.244.209.30:8000/play/a06b/index.m3u8
-#EXTINF:-1 group-title="OTROS",CNBC
-http://170.244.209.30:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="OTROS",CNN Internacional
 http://170.244.209.30:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="OTROS",CNNE
@@ -1525,8 +1494,6 @@ http://170.244.209.30:8000/play/a0gv/index.m3u8
 http://170.244.209.30:8000/play/a12v/index.m3u8
 #EXTINF:-1 group-title="OTROS",Esne
 http://170.244.209.30:8000/play/a1g3/index.m3u8
-#EXTINF:-1 group-title="OTROS",Eurochannel
-http://170.244.209.30:8000/play/a12x/index.m3u8
 #EXTINF:-1 group-title="OTROS",Europa HD
 http://170.244.209.30:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="OTROS",Exa TV
@@ -1555,8 +1522,6 @@ http://170.244.209.30:8000/play/a15r/index.m3u8
 http://170.244.209.30:8000/play/a131/index.m3u8
 #EXTINF:-1 group-title="OTROS",France24
 http://170.244.209.30:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOL TV
-http://170.244.209.30:8000/play/a1h4/index.m3u8
 #EXTINF:-1 group-title="OTROS",GamaTV
 http://170.244.209.30:8000/play/a1jj/index.m3u8
 #EXTINF:-1 group-title="OTROS",Gamavisiðn
@@ -1583,8 +1548,6 @@ http://170.244.209.30:8000/play/a15w/index.m3u8
 http://170.244.209.30:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="OTROS",Guatevision - GUA
 http://170.244.209.30:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="CINE",HBO 2
-http://170.244.209.30:8000/play/a162/index.m3u8
 #EXTINF:-1 group-title="CINE",HBO Family HD
 http://170.244.209.30:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="CINE",HBO Family HD
@@ -1633,10 +1596,6 @@ http://170.244.209.30:8000/play/a008/index.m3u8
 http://170.244.209.30:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="OTROS",ID
 http://170.244.209.30:8000/play/a1j9/index.m3u8
-#EXTINF:-1 group-title="OTROS",ID - Investigation Discovery
-http://170.244.209.30:8000/play/a1iw/index.m3u8
-#EXTINF:-1 group-title="OTROS",ID - Investigation Discovery
-http://170.244.209.30:8000/play/a15j/index.m3u8
 #EXTINF:-1 group-title="OTROS",ID HD
 http://170.244.209.30:8000/play/a0n5/index.m3u8
 #EXTINF:-1 group-title="OTROS",KCH TV
@@ -1651,8 +1610,6 @@ http://170.244.209.30:8000/play/a032/index.m3u8
 http://170.244.209.30:8000/play/a0yp/index.m3u8
 #EXTINF:-1 group-title="OTROS",La Tele
 http://170.244.209.30:8000/play/a1i4/index.m3u8
-#EXTINF:-1 group-title="OTROS",La Tele
-http://170.244.209.30:8000/play/a1j8/index.m3u8
 #EXTINF:-1 group-title="OTROS",La voz de Maria
 http://170.244.209.30:8000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="OTROS",Latina HD
@@ -1683,3 +1640,357 @@ http://170.244.209.30:8000/play/a02t/index.m3u8
 http://170.244.209.30:8000/play/a0hm/index.m3u8
 #EXTINF:-1 group-title="OTROS",Nick Jr.
 http://170.244.209.30:8000/play/a1it/index.m3u
+#EXTINF:-1  tvg-name="DEP | ESPN " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/164986.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN" tvg-logo="https://imgs.search.brave.com/Y1pvVTF2u7Ly80hpx8TNVxzcbO5jaY2nTZDNSNkwvo4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzJmL0VTUE5fd29y/ZG1hcmsuc3Zn" group-title="ESPN",DEP | ESPN
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/253253.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN ARG" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",DEP | ESPN ARG
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/72707.m3u8
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="DEP | ESPN DEPORTES" tvg-logo="http://visualservice.xyz:80/images/fa74b8ac9b6e1d65670ce20acde555a9.png" group-title="ESPN",DEP | ESPN DEPORTES
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/29768.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/288092.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 1 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/292819.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/296549.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 1*" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 1*
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/292842.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="ESPN",DEP | ESPN 2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/164987.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 7" tvg-logo="http://visualservice.xyz:80/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="ESPN",DEP | ESPN 7
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/22910.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 2 " tvg-logo="http://visualservice.xyz:80/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",DEP | ESPN 2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/124520.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 3" tvg-logo="http://visualservice.xyz:80/images/dbc89618838575bb5f470d437d248829.png" group-title="ESPN",DEP | ESPN 3
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/30954.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 3 " tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ESPN",DEP | ESPN 3
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/288089.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 3" tvg-logo="http://visualservice.xyz:80/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="ESPN",DEP | ESPN 3
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/22903.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 6" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 6
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/292845.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/296546.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN  4" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="ESPN",DEP | ESPN  4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/288093.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 4 S" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 4 S
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/34241.m3u8
+#EXTINF:-1  tvg-name="DEP | ESPN 5" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="ESPN",DEP | ESPN 5
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/22912.m3u8
+#EXTINF:-1  tvg-name="2M | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM LATINO 2MB",2M | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197127.m3u8
+#EXTINF:-1  tvg-name="2M | ESPN SUR"  group-title="PREMIUM LATINO 2MB",2M | ESPN SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197131.m3u8
+#EXTINF:-1  tvg-name="ESPN ARG"  group-title="PREMIUM LATINO 2MB",ESPN ARG
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197132.m3u8
+#EXTINF:-1  tvg-name="2M | DISTRITO COMEDIA" tvg-logo="http://visualservice.xyz:80/cine-sd.png" group-title="PREMIUM LATINO 2MB",2M | DISTRITO COMEDIA
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/165082.m3u8
+#EXTINF:-1  tvg-name="2M | HISTORY" tvg-logo="http://visualservice.xyz:80/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="PREMIUM LATINO 2MB",2M | HISTORY
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197030.m3u8
+#EXTINF:-1  tvg-name="2M | HBO FAMILY" tvg-logo="http://visualservice.xyz:80/images/567902b022119f8abef5b7c5eec55f38.png" group-title="PREMIUM LATINO 2MB",2M | HBO FAMILY
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197110.m3u8
+#EXTINF:-1  tvg-name="2M | HBO PLUS" tvg-logo="http://visualservice.xyz:80/images/8dab71cd68e2a8b333112b2e3634d5e0.png" group-title="PREMIUM LATINO 2MB",2M | HBO PLUS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197113.m3u8
+#EXTINF:-1  tvg-name="2M | DIRECTV SPORTS" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="PREMIUM LATINO 2MB",2M | DIRECTV SPORTS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197117.m3u8
+#EXTINF:-1  tvg-name="2M | DIRECTV SPORTS 2 " tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="PREMIUM LATINO 2MB",2M | DIRECTV SPORTS 2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197118.m3u8
+#EXTINF:-1  tvg-name="2M | FOX SPORTS"  group-title="PREMIUM LATINO 2MB",2M | FOX SPORTS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197134.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299266.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299283.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a244.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/311477.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 2"  group-title="PREMIUM SATELITE",SAT | ESPN 2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440842.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 4 " tvg-logo="http://guatv.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja5LdxHgdQUJGBVnWHISRyIGRjIDfnCnyTtYZQPKT6KrT7yrNp9JG9wIXtB_igyjpx2Akn776mw4zARDrb6RG6w.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440843.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja5LdxHgdQUJGBVnWHISRyIGRjIDfnCnyTtYZQPKT6KrT7yrNp9JG9wIXtB_igyjpx2Akn776mw4zARDrb6RG6w.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440844.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 3" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKRIRGLROGZUmEMEPfnqqLHzyRgD14gVb32KreSiNxfL7m7DI2WgFIwzmHnRmtZdqY.png" group-title="PREMIUM SATELITE",SAT | ESPN 3
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440845.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 1" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSZw0_3R_fNvtxttr325N88.png" group-title="PREMIUM SATELITE",SAT | ESPN 1
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440933.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 4" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsQ-oNEXdHeQv20zQRZeIhNQ.png" group-title="PREMIUM SATELITE",SAT | ESPN 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440934.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 2" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsa5VfC1L68fPvdaxFUx1M9g.png" group-title="PREMIUM SATELITE",SAT | ESPN 2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440937.m3u8
+#EXTINF:-1  tvg-name="SAT | ESPN 3" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsc-z5qFvdfJIx1hqp8IIaqM.png" group-title="PREMIUM SATELITE",SAT | ESPN 3
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440993.m3u8
+#EXTINF:-1  tvg-name="SD SUR I-Sat*CB"  group-title="PREMIUM SATELITE",SD SUR I-Sat*CB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440755.m3u8
+#EXTINF:-1  tvg-name="SD SUR REC TV*CB"  group-title="PREMIUM SATELITE",SD SUR REC TV*CB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440799.m3u8
+#EXTINF:-1  tvg-name="SAT | UNIVERSAL CHANNEL FHD SUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY92YKLSX4pOWU0RxeNcEVenTL-mCXcc0VwQ&usqp=CAU" group-title="PREMIUM SATELITE",SAT | UNIVERSAL CHANNEL FHD SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/292824.m3u8
+#EXTINF:-1  tvg-name="SAT | CINE | CINEMAX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="PREMIUM SATELITE",SAT | CINE | CINEMAX SD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/292834.m3u8
+#EXTINF:-1  tvg-name="SAT | EC | TELEAMAZONAS SD" tvg-logo="http://visualservice.xyz:80/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="PREMIUM SATELITE",SAT | EC | TELEAMAZONAS SD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/292873.m3u8
+#EXTINF:-1  tvg-name="CUL | DISCOVERY WORLD FHD"  group-title="PREMIUM SATELITE",CUL | DISCOVERY WORLD FHD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299219.m3u8
+#EXTINF:-1  tvg-name="CO | CARACOL FHD"  group-title="PREMIUM SATELITE",CO | CARACOL FHD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299221.m3u8
+#EXTINF:-1  tvg-name="PANAMERICANA SD "  group-title="PREMIUM SATELITE",PANAMERICANA SD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299235.m3u8
+#EXTINF:-1  tvg-name="INF | CARTOON NETWORK FHD SUR"  group-title="PREMIUM SATELITE",INF | CARTOON NETWORK FHD SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299273.m3u8
+#EXTINF:-1  tvg-name="CINE | STAR CHANNEL FHD NORTE*CB"  group-title="PREMIUM SATELITE",CINE | STAR CHANNEL FHD NORTE*CB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299303.m3u8
+#EXTINF:-1  tvg-name="CUL | DISCOVERY HOME & HEALTH FHD NORTE" tvg-logo="https://i.ibb.co/gTbw0bq/H-H.png" group-title="PREMIUM SATELITE",CUL | DISCOVERY HOME & HEALTH FHD NORTE
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299307.m3u8
+#EXTINF:-1  tvg-name="CINE | TNT NORTE FHD" tvg-logo="https://static.epg.best/ar/TNT.ar.png" group-title="PREMIUM SATELITE",CINE | TNT NORTE FHD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299312.m3u8
+#EXTINF:-1  tvg-name="RTS ECUADOR FHD"  group-title="PREMIUM SATELITE",RTS ECUADOR FHD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/299329.m3u8
+#EXTINF:-1  tvg-name="Golden- SD"  group-title="PREMIUM SATELITE",Golden- SD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/311484.m3u8
+#EXTINF:-1  tvg-name="Sony novelas "  group-title="PREMIUM SATELITE",Sony novelas
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/311510.m3u8
+#EXTINF:-1  tvg-name="Maschic sd*"  group-title="PREMIUM SATELITE",Maschic sd*
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/311511.m3u8
+#EXTINF:-1  tvg-name="History Channel SD SUR"  group-title="PREMIUM SATELITE",History Channel SD SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440730.m3u8
+#EXTINF:-1  tvg-name="HBO SD SUR"  group-title="PREMIUM SATELITE",HBO SD SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440731.m3u8
+#EXTINF:-1  tvg-name="STAR CHANNEL SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsS1ib11oVtHneIEscuIJc1c.png" group-title="PREMIUM SATELITE",STAR CHANNEL SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440734.m3u8
+#EXTINF:-1  tvg-name="HBO POP SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsRDfG-y-Reqn9WWX0PIKlvU.png" group-title="PREMIUM SATELITE",HBO POP SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440735.m3u8
+#EXTINF:-1  tvg-name="HBO SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsaDDV8s7VtkX73MczQW-ubw.png" group-title="PREMIUM SATELITE",HBO SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440736.m3u8
+#EXTINF:-1  tvg-name="UNIVERSAL PREMIERE O NORTE" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqL0bR10o2_EAZ-taUojv-zFcwI01mA78Brv8tssESP2zBdER8ns2Gr5JDiQaZoK33I.png" group-title="PREMIUM SATELITE",UNIVERSAL PREMIERE O NORTE
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440738.m3u8
+#EXTINF:-1  tvg-name="UNIVERSAL PREMIERE NORTE" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqL0bR10o2_EAZ-taUojv-zFcwI01mA78Brv8tssESP2zBdER8ns2Gr5JDiQaZoK33I.png" group-title="PREMIUM SATELITE",UNIVERSAL PREMIERE NORTE
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440739.m3u8
+#EXTINF:-1  tvg-name="SD SUR WILLAX"  group-title="PREMIUM SATELITE",SD SUR WILLAX
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440743.m3u8
+#EXTINF:-1  tvg-name="SD SUR Universal"  group-title="PREMIUM SATELITE",SD SUR Universal
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440744.m3u8
+#EXTINF:-1  tvg-name="SD SUR Trece"  group-title="PREMIUM SATELITE",SD SUR Trece
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440746.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telepacifico"  group-title="PREMIUM SATELITE",SD SUR Telepacifico
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440747.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telefuturo"  group-title="PREMIUM SATELITE",SD SUR Telefuturo
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440748.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telefe"  group-title="PREMIUM SATELITE",SD SUR Telefe
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440749.m3u8
+#EXTINF:-1  tvg-name="SD SUR Teleamazonas"  group-title="PREMIUM SATELITE",SD SUR Teleamazonas
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440750.m3u8
+#EXTINF:-1  tvg-name="SD SUR TV Peru"  group-title="PREMIUM SATELITE",SD SUR TV Peru
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440751.m3u8
+#EXTINF:-1  tvg-name="SD SUR SURTV"  group-title="PREMIUM SATELITE",SD SUR SURTV
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440752.m3u8
+#EXTINF:-1  tvg-name="SD SUR Panamericana TV"  group-title="PREMIUM SATELITE",SD SUR Panamericana TV
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440753.m3u8
+#EXTINF:-1  tvg-name="SD SUR HomeandHealth"  group-title="PREMIUM SATELITE",SD SUR HomeandHealth
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440756.m3u8
+#EXTINF:-1  tvg-name="SD SUR Ecuavisa"  group-title="PREMIUM SATELITE",SD SUR Ecuavisa
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440758.m3u8
+#EXTINF:-1  tvg-name="SD SUR Claro Cinema"  group-title="PREMIUM SATELITE",SD SUR Claro Cinema
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440759.m3u8
+#EXTINF:-1  tvg-name="SD SUR Canal Caracol"  group-title="PREMIUM SATELITE",SD SUR Canal Caracol
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440762.m3u8
+#EXTINF:-1  tvg-name="SD SUR Zona Latina"  group-title="PREMIUM SATELITE",SD SUR Zona Latina
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440764.m3u8
+#EXTINF:-1  tvg-name="SD SUR Venevisiðn"  group-title="PREMIUM SATELITE",SD SUR Venevisiðn
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440769.m3u8
+#EXTINF:-1  tvg-name="SD SUR Universal"  group-title="PREMIUM SATELITE",SD SUR Universal
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440770.m3u8
+#EXTINF:-1  tvg-name="SD SUR TyC Sports"  group-title="PREMIUM SATELITE",SD SUR TyC Sports
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440771.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telenovelas"  group-title="PREMIUM SATELITE",SD SUR Telenovelas
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440773.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telemundo"  group-title="PREMIUM SATELITE",SD SUR Telemundo
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440775.m3u8
+#EXTINF:-1  tvg-name="SD SUR TelefØ"  group-title="PREMIUM SATELITE",SD SUR TelefØ
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440776.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telecaribe"  group-title="PREMIUM SATELITE",SD SUR Telecaribe
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440777.m3u8
+#EXTINF:-1  tvg-name="SD SUR Telecafe" tvg-logo="https://i.ibb.co/Vp2cjDW/telecafe.png" group-title="PREMIUM SATELITE",SD SUR Telecafe
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440778.m3u8
+#EXTINF:-1  tvg-name="SD SUR TVN"  group-title="PREMIUM SATELITE",SD SUR TVN
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440780.m3u8
+#EXTINF:-1  tvg-name="SD SUR TVES*CB"  group-title="PREMIUM SATELITE",SD SUR TVES*CB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440781.m3u8
+#EXTINF:-1  tvg-name="SD SUR TV+*CB"  group-title="PREMIUM SATELITE",SD SUR TV+*CB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440782.m3u8
+#EXTINF:-1  tvg-name="SD SUR TNT"  group-title="PREMIUM SATELITE",SD SUR TNT
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440786.m3u8
+#EXTINF:-1  tvg-name="SD SUR TLT"  group-title="PREMIUM SATELITE",SD SUR TLT
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440787.m3u8
+#EXTINF:-1  tvg-name="SD SUR TCM"  group-title="PREMIUM SATELITE",SD SUR TCM
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440788.m3u8
+#EXTINF:-1  tvg-name="SD SUR Sun Channel"  group-title="PREMIUM SATELITE",SD SUR Sun Channel
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440789.m3u8
+#EXTINF:-1  tvg-name="SD SUR Space"  group-title="PREMIUM SATELITE",SD SUR Space
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440791.m3u8
+#EXTINF:-1  tvg-name="SD SUR Seæal Colombia"  group-title="PREMIUM SATELITE",SD SUR Seæal Colombia
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440792.m3u8
+#EXTINF:-1  tvg-name="SD SUR RPP"  group-title="PREMIUM SATELITE",SD SUR RPP
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440797.m3u8
+#EXTINF:-1  tvg-name="SD SUR RCN"  group-title="PREMIUM SATELITE",SD SUR RCN
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440800.m3u8
+#EXTINF:-1  tvg-name="SD SUR Perœ MÆgico"  group-title="PREMIUM SATELITE",SD SUR Perœ MÆgico
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440801.m3u8
+#EXTINF:-1  tvg-name="SD SUR Pasiones"  group-title="PREMIUM SATELITE",SD SUR Pasiones
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440802.m3u8
+#EXTINF:-1  tvg-name="SD SUR Paramount Channel"  group-title="PREMIUM SATELITE",SD SUR Paramount Channel
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440803.m3u8
+#EXTINF:-1  tvg-name="SD SUR Nuestra Tele*CB"  group-title="PREMIUM SATELITE",SD SUR Nuestra Tele*CB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440806.m3u8
+#EXTINF:-1  tvg-name="SD SUR Nickelodeon"  group-title="PREMIUM SATELITE",SD SUR Nickelodeon
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440807.m3u8
+#EXTINF:-1  tvg-name="SD SUR Nick Jr"  group-title="PREMIUM SATELITE",SD SUR Nick Jr
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440808.m3u8
+#EXTINF:-1  tvg-name="SD SUR NTN 24 Horas"  group-title="PREMIUM SATELITE",SD SUR NTN 24 Horas
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440809.m3u8
+#EXTINF:-1  tvg-name="SD SUR Movistar Plus"  group-title="PREMIUM SATELITE",SD SUR Movistar Plus
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440811.m3u8
+#EXTINF:-1  tvg-name="SD SUR MEGA"  group-title="PREMIUM SATELITE",SD SUR MEGA
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440815.m3u8
+#EXTINF:-1  tvg-name="SD SUR Love Nature"  group-title="PREMIUM SATELITE",SD SUR Love Nature
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440816.m3u8
+#EXTINF:-1  tvg-name="SD SUR Lolly Kids"  group-title="PREMIUM SATELITE",SD SUR Lolly Kids
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440817.m3u8
+#EXTINF:-1  tvg-name="SD SUR Latina"  group-title="PREMIUM SATELITE",SD SUR Latina
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440819.m3u8
+#EXTINF:-1  tvg-name="SD SUR Kanal D Drama"  group-title="PREMIUM SATELITE",SD SUR Kanal D Drama
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440821.m3u8
+#EXTINF:-1  tvg-name="SD SUR ID - Investigation Discovery"  group-title="PREMIUM SATELITE",SD SUR ID - Investigation Discovery
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440822.m3u8
+#EXTINF:-1  tvg-name="SD SUR HGTV"  group-title="PREMIUM SATELITE",SD SUR HGTV
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440824.m3u8
+#EXTINF:-1  tvg-name="SD SUR HBO2"  group-title="PREMIUM SATELITE",SD SUR HBO2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440825.m3u8
+#EXTINF:-1  tvg-name="SD SUR HBO MUNDI"  group-title="PREMIUM SATELITE",SD SUR HBO MUNDI
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440826.m3u8
+#EXTINF:-1  tvg-name="SD SUR Golden Edge"  group-title="PREMIUM SATELITE",SD SUR Golden Edge
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440828.m3u8
+#EXTINF:-1  tvg-name="SD SUR Golden"  group-title="PREMIUM SATELITE",SD SUR Golden
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440829.m3u8
+#EXTINF:-1  tvg-name="SD SUR Glitz*"  group-title="PREMIUM SATELITE",SD SUR Glitz*
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440830.m3u8
+#EXTINF:-1  tvg-name="SD SUR France 24"  group-title="PREMIUM SATELITE",SD SUR France 24
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440831.m3u8
+#EXTINF:-1  tvg-name="SD SUR Fox Sports 2"  group-title="PREMIUM SATELITE",SD SUR Fox Sports 2
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440832.m3u8
+#EXTINF:-1  tvg-name="SD SUR FANB"  group-title="PREMIUM SATELITE",SD SUR FANB
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440835.m3u8
+#EXTINF:-1  tvg-name="SD SUR Enlace"  group-title="PREMIUM SATELITE",SD SUR Enlace
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440837.m3u8
+#EXTINF:-1  tvg-name="SD SUR Disney Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" group-title="PREMIUM SATELITE",SD SUR Disney Junior
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440848.m3u8
+#EXTINF:-1  tvg-name="SD SUR Cartoonito" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKBRg35ZNnJIpjrenlxhL5cjVWm5kmpoBPRpC_qZVEzRz3-b-ZXJH3WPn_18xN_IiI.png" group-title="PREMIUM SATELITE",SD SUR Cartoonito
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440860.m3u8
+#EXTINF:-1  tvg-name="SD SUR América Televisión" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqItH9aWi3PNM4xGFZ-ZumC4jQmGgnDTm426Y-V5FdLTZ5oW7fVkHPld9HFAfCtmbYs.png" group-title="PREMIUM SATELITE",SD SUR América Televisión
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440870.m3u8
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsU7mxJfUk_XfhTHNFbNH1nE.png" group-title="PREMIUM SATELITE",UNIVERSAL CHANNEL SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440900.m3u8
+#EXTINF:-1  tvg-name="TNT Series SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsb1CufQ4tzQT_Vjw__TLzgw.png" group-title="PREMIUM SATELITE",TNT Series SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440902.m3u8
+#EXTINF:-1  tvg-name="TNT SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsWU0laHlNOAi4BYVhZSyBuM.png" group-title="PREMIUM SATELITE",TNT SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440903.m3u8
+#EXTINF:-1  tvg-name="RCN SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsTVLjVd9Gq9czDyaSQjoISk.png" group-title="PREMIUM SATELITE",RCN SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440908.m3u8
+#EXTINF:-1  tvg-name="Movistar Deportes SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsa623vavddQF19kVvW_bqW4.png" group-title="PREMIUM SATELITE",Movistar Deportes SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440911.m3u8
+#EXTINF:-1  tvg-name="DIRECTV SPORTS 1" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS 1
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/124532.m3u8
+#EXTINF:-1  tvg-name="Las Estrellas SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsaE1vaA8XliUFlOl83LYiOQ.png" group-title="PREMIUM SATELITE",Las Estrellas SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440914.m3u8
+#EXTINF:-1  tvg-name="La Red SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsV1W-eUTBRL6lQWzXrHpW34.png" group-title="PREMIUM SATELITE",La Red SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440915.m3u8
+#EXTINF:-1  tvg-name="DIRECTV SPORTS COLOMBIA" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV",DIRECTV SPORTS COLOMBIA
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/197220.m3u8
+#EXTINF:-1  tvg-name="DIRECTV SPORTS URU*" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS URU*
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/289665.m3u8
+#EXTINF:-1  tvg-name="History Channel SUR" tvg-logo="http://guatv.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7KzC9syIePb4GWou50LszIKjeVd6nGspCcVptNgnGhEJ-pciH9Hbqo8HrdthOCqJN2dUnP9lPAm32aeFXIzQWlA.jpeg" group-title="PREMIUM SATELITE",History Channel SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440918.m3u8
+#EXTINF:-1  tvg-name="History 2 SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsb12osf3N7l4roHJNOAjGtM.png" group-title="PREMIUM SATELITE",History 2 SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440919.m3u8
+#EXTINF:-1  tvg-name="DIRECTV SPORTS +" tvg-logo="http://visualservice.xyz:80/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="DIRECTV",DIRECTV SPORTS +
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/57.m3u8
+#EXTINF:-1  tvg-name="HBO XTREME SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsZELRhqJRZKjorGpTkfHaCQ.png" group-title="PREMIUM SATELITE",HBO XTREME SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440920.m3u8
+#EXTINF:-1  tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 COLOMBIA
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/811804.m3u8
+#EXTINF:-1  tvg-name="GOLPERU SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsXx_3VUi2qYiVG4U4NTdu0E.png" group-title="PREMIUM SATELITE",GOLPERU SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440925.m3u8
+#EXTINF:-1  tvg-name="E! SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsZvF8kbIF8tw2US0aZF5kUA.png" group-title="PREMIUM SATELITE",E! SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440928.m3u8
+#EXTINF:-1  tvg-name="FX SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBscd3hS2RqT6VEKlf1lQgRJM.png" group-title="PREMIUM SATELITE",FX SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440929.m3u8
+#EXTINF:-1  tvg-name="El Gourmet SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsST8KAxvtbApDeM1nhuvq-M.png" group-title="PREMIUM SATELITE",El Gourmet SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440932.m3u8
+#EXTINF:-1  tvg-name="TNT SPORT SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsYXnKKusIFvmjkJAYb4_-WA.png" group-title="PREMIUM SATELITE",TNT SPORT SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440939.m3u8
+#EXTINF:-1  tvg-name="Discovery Theater SUR" tvg-logo="http://guatv.xyz:80/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7D2U6D6iX26PTCzrLi95vXldzA2B0CeoKJqs8t9t-tMGwTK7jhV7c-5h2bpzqEBOhaS0Jh02h6KAu2gFpic1jBg.png" group-title="PREMIUM SATELITE",Discovery Theater SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440942.m3u8
+#EXTINF:-1  tvg-name="Discovery Kids SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsYXnKKusIFvmjkJAYb4_-WA.png" group-title="PREMIUM SATELITE",Discovery Kids SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440943.m3u8
+#EXTINF:-1  tvg-name="DHE SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsRxJP4kzZ-FHwCCSlDzvPMA.png" group-title="PREMIUM SATELITE",DHE SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440945.m3u8
+#EXTINF:-1  tvg-name="Cinemax SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsfs01ma8Hu8tc4kBucljsg0.png" group-title="PREMIUM SATELITE",Cinemax SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440946.m3u8
+#EXTINF:-1  tvg-name="Cinecanal SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsXpcmQLkB1561v-mK25xlEQ.png" group-title="PREMIUM SATELITE",Cinecanal SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440947.m3u8
+#EXTINF:-1  tvg-name="Cartoon Network SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsQilj9L1-FGy1o7nApQAVZY.png" group-title="PREMIUM SATELITE",Cartoon Network SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440948.m3u8
+#EXTINF:-1  tvg-name="Caracol SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsVZZikuq1v9MC4ASM-c0ag0.png" group-title="PREMIUM SATELITE",Caracol SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440949.m3u8
+#EXTINF:-1  tvg-name="CHV SUR" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqIGm6QfJhKF8kZNBQ4jmfgbLW9tRgF86i3DKjgNwc-beTGGoM-ALDsfxCfg4WkXjB0.png" group-title="PREMIUM SATELITE",CHV SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440951.m3u8
+#EXTINF:-1  tvg-name="Animal Planet SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSPGAEnTzNu2r4qYp1JnoNo.png" group-title="PREMIUM SATELITE",Animal Planet SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440952.m3u8
+#EXTINF:-1  tvg-name="America TV SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsQoiZwL2v8_HFa1xsUjx2zA.png" group-title="PREMIUM SATELITE",America TV SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440953.m3u8
+#EXTINF:-1  tvg-name="AXN SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSk3oE9v1OCn8auhy2hgzP4.png" group-title="PREMIUM SATELITE",AXN SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440954.m3u8
+#EXTINF:-1  tvg-name="A&E SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsVtr4UIxgocnMg2SW5rKxAI.png" group-title="PREMIUM SATELITE",A&E SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440955.m3u8
+#EXTINF:-1  tvg-name="AMC SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBscrZAq6jGMjLOuSPQ74KOoY.png" group-title="PREMIUM SATELITE",AMC SUR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440956.m3u8
+#EXTINF:-1  tvg-name="NORTE Discovery kids."  group-title="PREMIUM SATELITE",NORTE Discovery kids.
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440957.m3u8
+#EXTINF:-1  tvg-name="NORTE Canal 4"  group-title="PREMIUM SATELITE",NORTE Canal 4
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440960.m3u8
+#EXTINF:-1  tvg-name="NORTE Canal 7 CR"  group-title="PREMIUM SATELITE",NORTE Canal 7 CR
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440961.m3u8
+#EXTINF:-1  tvg-name="NORTE TD +"  group-title="PREMIUM SATELITE",NORTE TD +
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440962.m3u8
+#EXTINF:-1  tvg-name="NORTE Golf Channel 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLwm2yvrV89xHNoLBM1D-eNQytny3-pVWGFvV0p_-RNZXJWSBntbksOEm-Byz5HS9U.png" group-title="PREMIUM SATELITE",NORTE Golf Channel 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440964.m3u8
+#EXTINF:-1  tvg-name="NORTE Discovery Channel 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsTB39NF_A8ftUm8wgz1FByY.png" group-title="PREMIUM SATELITE",NORTE Discovery Channel 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440965.m3u8
+#EXTINF:-1  tvg-name="NORTE WARNER 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsYdTxaq-dW4-nfaPEacGnL0.png" group-title="PREMIUM SATELITE",NORTE WARNER 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440966.m3u8
+#EXTINF:-1  tvg-name="NORTE SONY 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLObMG_hcDxtR14hmzb3VYEWD4iJXwsbIu0WlRpkC0eLn9wm3OzjobxkBwThxnf1QM.png" group-title="PREMIUM SATELITE",NORTE SONY 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440977.m3u8
+#EXTINF:-1  tvg-name="NORTE Paramount 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqJjXFeAPbOdS8F9POzbskuWv_Vzs1g0DPaRJqJ_O0gQwOnVUKH1IyBjZR3Maa_u2nk.png" group-title="PREMIUM SATELITE",NORTE Paramount 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440979.m3u8
+#EXTINF:-1  tvg-name="NORTE Home & Health 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKiRrbGY1BnGOYWNTJU3yRVtKh_8sUusfYbEosqPtQSOxEXvEXq7iA7-vL3rVnONIM.png" group-title="PREMIUM SATELITE",NORTE Home & Health 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440981.m3u8
+#EXTINF:-1  tvg-name="NORTE HBO Plus 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLJKNOOWunIDsK67C8PKCFjPfBA8_jiTGmeFZdot2KkYP_k3O5eDTwB3TsKQ2hZCb0.png" group-title="PREMIUM SATELITE",NORTE HBO Plus 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440984.m3u8
+#EXTINF:-1  tvg-name="NORTE FX 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBscd3hS2RqT6VEKlf1lQgRJM.png" group-title="PREMIUM SATELITE",NORTE FX 4K+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/440988.m3u8
+#EXTINF:-1  tvg-name="NORTE A&E 4k+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsVtr4UIxgocnMg2SW5rKxAI.png" group-title="PREMIUM SATELITE",NORTE A&E 4k+
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/441009.m3u8
+#EXTINF:-1  tvg-name="DLAT | TUDN USA HD " tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="DEPORTE LATINO",DLAT | TUDN USA HD
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/291856.m3u8
+#EXTINF:-1  tvg-name="DLAT | ADRENALINA" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png" group-title="DEPORTE LATINO",DLAT | ADRENALINA
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/110879.m3u8
+#EXTINF:-1  tvg-name="MEX | AFIZZIONADOS " tvg-logo="http://mylatinotv.com:8080/images/mexico/afizzionados.png" group-title="DEPORTE LATINO",MEX | AFIZZIONADOS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/276735.m3u8
+#EXTINF:-1  tvg-name="HD MX | AFIZZIONADOS" tvg-logo="http://xtreamgo.one:80/images/QCqX5p5x3Y181Q8jwb82JBdhEO1FiCh6bbNvU5DXSGopXacRDbSOD1cho1Nj0Fft.png" group-title="DEPORTE LATINO",HD MX | AFIZZIONADOS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/341670.m3u8
+#EXTINF:-1  tvg-name="RD: TOROS" tvg-logo="http://visi4k.site:8080/images/4381aebacee4423f0cc76d2bfbe58331.png" group-title="DEPORTE LATINO",RD: TOROS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/458573.m3u8
+#EXTINF:-1  tvg-name="DLAT | GOL PERU HD   *lt" tvg-logo="http://visualservice.xyz:80/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="DEPORTE LATINO",DLAT | GOL PERU HD   *lt
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/31935.m3u8
+#EXTINF:-1  tvg-name="DLAT | TYC SPORTS " tvg-logo="http://visualservice.xyz:80/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="DEPORTE LATINO",DLAT | TYC SPORTS
+http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/30963.m3u8
