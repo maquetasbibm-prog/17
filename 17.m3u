@@ -1994,3 +1994,37 @@ http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/458573.m3u8
 http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/31935.m3u8
 #EXTINF:-1  tvg-name="DLAT | TYC SPORTS " tvg-logo="http://visualservice.xyz:80/images/a3929ff1f9f4affebf1e59f5db46b938.png" group-title="DEPORTE LATINO",DLAT | TYC SPORTS
 http://skynetdigital.us:8080/live/CRPLAY-26hdgd/EztUYrvYBhs6/30963.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 2 HD
+http://209.61.81.38:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 2 HD
+http://209.61.81.38:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 3
+http://209.61.81.38:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 3 HD
+http://209.61.81.38:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 4 HD
+http://209.61.81.38:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 5
+http://209.61.81.38:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 5 HD
+http://209.61.81.38:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 5 HD
+http://209.61.81.38:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 6
+http://209.61.81.38:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 6 HD
+http://209.61.81.38:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN Premium HD
+http://209.61.81.38:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN HD
+http://209.61.81.38:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN HD
+http://209.61.81.38:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN HD
+http://209.61.81.38:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Espn",ESPN 7 HD
+http://209.61.81.38:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Tnt sports",TNT SPORTS
+http://209.61.81.38:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Tnt sports",TNT Sports Premiun HD
+http://209.61.81.38:8000/play/a010/index.m3u8
