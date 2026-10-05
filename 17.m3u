@@ -2010,3 +2010,631 @@ http://216.155.91.47:8000/play/a0l4/index.m3u8
 http://216.155.91.47:8000/play/a0o2/index.m3u8
 #EXTINF:-1 group-title="Espn",ESPN
 http://216.155.91.47:8000/play/a0oe/index.m3u8
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »1«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/86
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »2«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/87
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »3«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/88
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »4«" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/89
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO II (HD) »1«" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO II (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/61274
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO II (HD) »2«" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO II (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/61275
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO II (HD) »3«" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO II (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/61276
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/92
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• TNT SPORTS PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/93
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »3«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/96
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »4«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/97
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »1«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/98
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »2«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/99
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »3«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/56659
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="FCL• TNT SPORTS (HD) »4«" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/56660
+#EXTINF:-1  tvg-name="FCL• ESPN (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/67188
+#EXTINF:-1  tvg-name="FCL• ESPN (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/67190
+#EXTINF:-1  tvg-name="FCL• ESPN (HD) »3«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/67191
+#EXTINF:-1  tvg-name="FCL• D13 (HD) »1«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/60957
+#EXTINF:-1  tvg-name="FCL• D13 (HD) »2«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/60958
+#EXTINF:-1  tvg-name="FCL• D13 (HD) »3«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/60959
+#EXTINF:-1  tvg-name="FCL• D13 (HD) »4«" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/60960
+#EXTINF:-1  tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/247836
+#EXTINF:-1  tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/58289
+#EXTINF:-1  tvg-name="FCL• DIRECTV SPORTS (HD) »3«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/248240
+#EXTINF:-1  tvg-name="FCL• DIRECTV SPORTS (HD) »4«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="→ FUTBÓL CHILE ←",FCL• DIRECTV SPORTS (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/247839
+#EXTINF:-1  tvg-name="FCL• TNT SPORTS PREMIUM (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/248242
+#EXTINF:-1  tvg-name="FCL• TNT SPORTS PREMIUM (HD) »2«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/247844
+#EXTINF:-1  tvg-name="FCL• TNT SPORTS PREMIUM 2 (HD) »1«" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/248243
+#EXTINF:-1  tvg-name="DEP | TNT SPORTS EN MAX (Eventos) 2MB" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/marcas/tnt-sports-max-1.png" group-title="→ FUTBÓL CHILE ←",DEP | TNT SPORTS EN MAX (Eventos) 2MB
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/282054
+#EXTINF:-1  tvg-name="PPV EVENTO TNT SPORT EN MAX OP" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="→ FUTBÓL CHILE ←",PPV EVENTO TNT SPORT EN MAX OP
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/282055
+#EXTINF:-1  tvg-name="DEP| TNT SPORTS BÁSICO | HD (P)" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | HD (P)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/283774
+#EXTINF:-1  tvg-name="DEP| TNT SPORTS BÁSICO | HQ" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | HQ
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/283775
+#EXTINF:-1  tvg-name="DEP| TNT SPORTS BÁSICO | 2mb" tvg-logo="http://tv.streamid.tv:8080/images/9cfd46535a08195025fe6462127320fd.png" group-title="→ FUTBÓL CHILE ←",DEP| TNT SPORTS BÁSICO | 2mb
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/283776
+#EXTINF:-1  tvg-name="DEP• TNT SPORTS AR (HD) »1«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/459
+#EXTINF:-1  tvg-name="DEP• TNT SPORTS AR (HD) »2«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/460
+#EXTINF:-1  tvg-name="DEP• TNT SPORTS AR (HD) »3«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/461
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR (HD) »1«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/554
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR (HD) »2«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/462
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR (HD) »3«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/555
+#EXTINF:-1  tvg-name="DEP• CDO BASICO CL (HD) »1«" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo_cl_basico.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO BASICO CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/74106
+#EXTINF:-1  tvg-name="DEP• CDO PREMIUM CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/26000
+#EXTINF:-1  tvg-name="DEP• CDO PREMIUM CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/25999
+#EXTINF:-1  tvg-name="DEP• ESPN CL (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/501
+#EXTINF:-1  tvg-name="DEP• ESPN CL (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/502
+#EXTINF:-1  tvg-name="DEP• ESPN AR (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/518
+#EXTINF:-1  tvg-name="DEP• ESPN AR (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/520
+#EXTINF:-1  tvg-name="DEP• ESPN LAT (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN LAT (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/522
+#EXTINF:-1  tvg-name="DEP• ESPN LAT (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN LAT (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/524
+#EXTINF:-1  tvg-name="DEP• ESPN MX (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/519
+#EXTINF:-1  tvg-name="DEP• ESPN MX (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/521
+#EXTINF:-1  tvg-name="DEP• ESPN MX (HD) »3«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/523
+#EXTINF:-1  tvg-name="DEP• ESPN 2 CL (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/452
+#EXTINF:-1  tvg-name="DEP• ESPN 2 CL (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/503
+#EXTINF:-1  tvg-name="DEP• ESPN 2 CL (HD) »3«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/504
+#EXTINF:-1  tvg-name="DEP• ESPN 2 AR (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/506
+#EXTINF:-1  tvg-name="DEP• ESPN 2 AR (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/507
+#EXTINF:-1  tvg-name="DEP• ESPN 2 LAT (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 LAT (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/508
+#EXTINF:-1  tvg-name="DEP• ESPN 2 LAT (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 LAT (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/510
+#EXTINF:-1  tvg-name="DEP• ESPN 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/505
+#EXTINF:-1  tvg-name="DEP• ESPN 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/509
+#EXTINF:-1  tvg-name="DEP• ESPN 3 CL (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 CL (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/512
+#EXTINF:-1  tvg-name="DEP• ESPN 3 AR (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 AR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/513
+#EXTINF:-1  tvg-name="DEP• ESPN 3 LAT (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 LAT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/514
+#EXTINF:-1  tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 MX (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/511
+#EXTINF:-1  tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 LAT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/517
+#EXTINF:-1  tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/515
+#EXTINF:-1  tvg-name="DEP• ESPN 4 MX (HD) »2«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/516
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »1«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/456
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »2«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/457
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »3«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/458
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »4«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/525
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »1«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/526
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »2«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/527
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »3«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/528
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »4«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/541
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »1«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/542
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »2«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/543
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/544
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/545
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 MX (HD) »1«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/540
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 MX (HD) »2«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/534
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »1«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/453
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »2«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/454
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »3«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/530
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »4«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/532
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »5«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »5«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/533
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/529
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/531
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 2 MX (HD) »3«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/535
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 3 AR (HD) »1«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/455
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 3 AR (HD) »2«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/537
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 3 AR (HD) »3«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/538
+#EXTINF:-1  tvg-name="DEP• ESPN 6 (HD) »1«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 6 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/539
+#EXTINF:-1  tvg-name="DEP• ESPN 6 (HD) »2«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 6 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/536
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/481
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/465
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/484
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/480
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/483
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CO (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/482
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CO (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/485
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS PE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS PE (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/479
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/464
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/478
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/475
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/473
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/474
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CO (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CO (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/476
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 PE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 PE (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/477
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »1«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/472
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/469
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »1«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/467
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/466
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »3«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/468
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ CO (HD)" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CO (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/470
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ PE (HD)" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ PE (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/471
+#EXTINF:-1  tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/568
+#EXTINF:-1  tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/569
+#EXTINF:-1  tvg-name="DEP• PREMIERE 1 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 1 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/561
+#EXTINF:-1  tvg-name="DEP• PREMIERE 2 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 2 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/562
+#EXTINF:-1  tvg-name="DEP• PREMIERE 3 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 3 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/563
+#EXTINF:-1  tvg-name="DEP• PREMIERE 4 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 4 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/564
+#EXTINF:-1  tvg-name="DEP• PREMIERE 5 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/565
+#EXTINF:-1  tvg-name="DEP• PREMIERE 6 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/566
+#EXTINF:-1  tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/567
+#EXTINF:-1  tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/585
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »1«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/486
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »2«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/489
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »3«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/488
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »4«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/487
+#EXTINF:-1  tvg-name="DEP• VTV UR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/558
+#EXTINF:-1  tvg-name="DEP• VTV UR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/557
+#EXTINF:-1  tvg-name="DEP• VTV UR (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/556
+#EXTINF:-1  tvg-name="DEP• VTV+ UR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/560
+#EXTINF:-1  tvg-name="DEP• VTV+ UR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/559
+#EXTINF:-1  tvg-name="DEP• M. DEPORTES ES (HD)" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/550
+#EXTINF:-1  tvg-name="DEP• LA LIGA TV ES (HD)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/490
+#EXTINF:-1  tvg-name="DEP• REAL MADRID TV ES (HD)" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/587
+#EXTINF:-1  tvg-name="DEP• LA LIGA TV BAR ES (HD)" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV BAR ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/491
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/497
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/496
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/495
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/492
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA 2 ES (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/493
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA 3 ES (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 3 ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/494
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/500
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/499
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/498
+#EXTINF:-1  tvg-name="DEP• ELEVEN SPORTS 1 PT (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="→ DEPORTES LATINOS ←",DEP• ELEVEN SPORTS 1 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/570
+#EXTINF:-1  tvg-name="DEP• ELEVEN SPORTS 2 PT (HD)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="→ DEPORTES LATINOS ←",DEP• ELEVEN SPORTS 2 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/571
+#EXTINF:-1  tvg-name="DEP• SPORT TV 1 PT (HD)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 1 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/573
+#EXTINF:-1  tvg-name="DEP• SPORT TV 2 PT (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 2 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/574
+#EXTINF:-1  tvg-name="DEP• SPORT TV 3 PT (HD)" tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 3 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/575
+#EXTINF:-1  tvg-name="DEP• SPORT TV 4 PT (HD)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 4 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/576
+#EXTINF:-1  tvg-name="DEP• SPORT TV+ PT (HD)" tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV+ PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/572
+#EXTINF:-1  tvg-name="DEP• EUROSPORT 1 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/577
+#EXTINF:-1  tvg-name="DEP• EUROSPORT 2 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/578
+#EXTINF:-1  tvg-name="DEP• TUDN MX (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TUDN MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/553
+#EXTINF:-1  tvg-name="DEP• TUDN MX (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TUDN MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/552
+#EXTINF:-1  tvg-name="DEP• AFIZZIONADOS MX (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• AFIZZIONADOS MX (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/579
+#EXTINF:-1  tvg-name="DEP• GOLF CHANNEL MX (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/549
+#EXTINF:-1  tvg-name="DEP• CLARO SPORTS CO (HD)" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/463
+#EXTINF:-1  tvg-name="DEP• UFC (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/580
+#EXTINF:-1  tvg-name="DEP• UFC (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/586
+#EXTINF:-1  tvg-name="DEP• UFC FIGHT PASS (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC FIGHT PASS (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/581
+#EXTINF:-1  tvg-name="DEP• WWE NETWORK (HD)" tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• WWE NETWORK (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/583
+#EXTINF:-1  tvg-name="DEP• TENNIS CHANNEL (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TENNIS CHANNEL (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/551
+#EXTINF:-1  tvg-name="DEP• COMBATE BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• COMBATE BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/582
+#EXTINF:-1  tvg-name="DEP• RED BULL TV (HD)" tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="→ DEPORTES LATINOS ←",DEP• RED BULL TV (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/584
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR DASH"  group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR DASH
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1  tvg-name="UNBEATEN FHD"  group-title="→ DEPORTES LATINOS ←",UNBEATEN FHD
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/256396
+#EXTINF:-1  tvg-name="DEP• TNT SPORTS AR (HD) »1«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/459
+#EXTINF:-1  tvg-name="DEP• TNT SPORTS AR (HD) »2«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/460
+#EXTINF:-1  tvg-name="Tennis Channel 2 FHD" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="→ DEPORTES LATINOS ←",Tennis Channel 2 FHD
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/256409
+#EXTINF:-1  tvg-name="RED BULL TV DASH" tvg-logo="https://pictr.com/images/2023/09/03/EWPVL9.png" group-title="→ DEPORTES LATINOS ←",RED BULL TV DASH
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1  tvg-name="DEP• TNT SPORTS AR (HD) »3«" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• TNT SPORTS AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/461
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR (HD) »1«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/554
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR (HD) »2«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/462
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR (HD) »3«" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/555
+#EXTINF:-1  tvg-name="DEP• CDO BASICO CL (HD) »1«" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo_cl_basico.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO BASICO CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/74106
+#EXTINF:-1  tvg-name="DEP• CDO PREMIUM CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/26000
+#EXTINF:-1  tvg-name="DEP• CDO PREMIUM CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/25999
+#EXTINF:-1  tvg-name="DEP• ESPN CL (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/501
+#EXTINF:-1  tvg-name="DEP• ESPN CL (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/502
+#EXTINF:-1  tvg-name="DEP• ESPN AR (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/518
+#EXTINF:-1  tvg-name="DEP• ESPN AR (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/520
+#EXTINF:-1  tvg-name="DEP• ESPN LAT (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN LAT (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/522
+#EXTINF:-1  tvg-name="DEP• ESPN LAT (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN LAT (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/524
+#EXTINF:-1  tvg-name="DEP• ESPN MX (HD) »1«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/519
+#EXTINF:-1  tvg-name="DEP• ESPN MX (HD) »2«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/521
+#EXTINF:-1  tvg-name="DEP• ESPN MX (HD) »3«" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN MX (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/523
+#EXTINF:-1  tvg-name="DEP• ESPN 2 CL (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/452
+#EXTINF:-1  tvg-name="DEP• ESPN 2 CL (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/503
+#EXTINF:-1  tvg-name="DEP• ESPN 2 CL (HD) »3«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 CL (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/504
+#EXTINF:-1  tvg-name="DEP• ESPN 2 AR (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/506
+#EXTINF:-1  tvg-name="DEP• ESPN 2 AR (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/507
+#EXTINF:-1  tvg-name="DEP• ESPN 2 LAT (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 LAT (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/508
+#EXTINF:-1  tvg-name="DEP• ESPN 2 LAT (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 LAT (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/510
+#EXTINF:-1  tvg-name="DEP• ESPN 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/505
+#EXTINF:-1  tvg-name="DEP• ESPN 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 2 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/509
+#EXTINF:-1  tvg-name="DEP• ESPN 3 CL (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 CL (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/512
+#EXTINF:-1  tvg-name="DEP• ESPN 3 AR (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 AR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/513
+#EXTINF:-1  tvg-name="DEP• ESPN 3 LAT (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 LAT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/514
+#EXTINF:-1  tvg-name="DEP• ESPN 3 MX (HD)" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 3 MX (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/511
+#EXTINF:-1  tvg-name="DEP• ESPN 4 LAT (HD)" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 LAT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/517
+#EXTINF:-1  tvg-name="DEP• ESPN 4 MX (HD) »1«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/515
+#EXTINF:-1  tvg-name="DEP• ESPN 4 MX (HD) »2«" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 4 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/516
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »1«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/456
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »2«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/457
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »3«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/458
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 AR (HD) »4«" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 AR (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/525
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »1«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/526
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »2«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/527
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »3«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/528
+#EXTINF:-1  tvg-name="DEP• ESPN 5 (HD) »4«" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 5 (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/541
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »1«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/542
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »2«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/543
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »3«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/544
+#EXTINF:-1  tvg-name="DEP• ESPN PREMIUM (HD) »4«" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/545
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 MX (HD) »1«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/540
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 1 MX (HD) »2«" tvg-logo="https://i.postimg.cc/W1hpgyH4/fox1.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/534
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »1«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/453
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »2«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/454
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »3«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/530
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »4«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/532
+#EXTINF:-1  tvg-name="DEP• ESPN 7 (HD) »5«" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 7 (HD) »5«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/533
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/529
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 2 MX (HD) »2«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/531
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 2 MX (HD) »3«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 2 MX (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/535
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 3 AR (HD) »1«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/455
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 3 AR (HD) »2«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/537
+#EXTINF:-1  tvg-name="DEP• FOX SPORTS 3 AR (HD) »3«" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 3 AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/538
+#EXTINF:-1  tvg-name="DEP• ESPN 6 (HD) »1«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 6 (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/539
+#EXTINF:-1  tvg-name="DEP• ESPN 6 (HD) »2«" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN 6 (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/536
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/481
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/465
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CL (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/484
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/480
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/483
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CO (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/482
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS CO (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/485
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS PE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS PE (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/479
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/464
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/478
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CL (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/475
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/473
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 AR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/474
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 CO (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 CO (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/476
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS 2 PE (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS 2 PE (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/477
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »1«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CL (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/472
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ CL (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CL (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/469
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »1«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/467
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »2«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/466
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ AR (HD) »3«" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/468
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ CO (HD)" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ CO (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/470
+#EXTINF:-1  tvg-name="DEP• DIRECTV SPORTS+ PE (HD)" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ PE (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/471
+#EXTINF:-1  tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/568
+#EXTINF:-1  tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/569
+#EXTINF:-1  tvg-name="DEP• PREMIERE 1 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 1 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/561
+#EXTINF:-1  tvg-name="DEP• PREMIERE 2 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 2 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/562
+#EXTINF:-1  tvg-name="DEP• PREMIERE 3 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 3 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/563
+#EXTINF:-1  tvg-name="DEP• PREMIERE 4 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 4 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/564
+#EXTINF:-1  tvg-name="DEP• PREMIERE 5 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/565
+#EXTINF:-1  tvg-name="DEP• PREMIERE 6 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/566
+#EXTINF:-1  tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/567
+#EXTINF:-1  tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/585
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »1«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/486
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »2«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/489
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »3«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/488
+#EXTINF:-1  tvg-name="DEP• GOL TV EC (HD) »4«" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" group-title="→ DEPORTES LATINOS ←",DEP• GOL TV EC (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/487
+#EXTINF:-1  tvg-name="DEP• VTV UR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/558
+#EXTINF:-1  tvg-name="DEP• VTV UR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/557
+#EXTINF:-1  tvg-name="DEP• VTV UR (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/556
+#EXTINF:-1  tvg-name="DEP• VTV+ UR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/560
+#EXTINF:-1  tvg-name="DEP• VTV+ UR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/559
+#EXTINF:-1  tvg-name="DEP• M. DEPORTES ES (HD)" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/550
+#EXTINF:-1  tvg-name="DEP• LA LIGA TV ES (HD)" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/490
+#EXTINF:-1  tvg-name="DEP• REAL MADRID TV ES (HD)" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/587
+#EXTINF:-1  tvg-name="DEP• LA LIGA TV BAR ES (HD)" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F572%2Flaliga-tv-bar-2.png" group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV BAR ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/491
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/497
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/496
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/495
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA ES (HD) »4«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/492
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA 2 ES (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/493
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA 3 ES (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 3 ES (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/494
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/500
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/499
+#EXTINF:-1  tvg-name="DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA DE CAMPEONES ES (HD) »3«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/498
+#EXTINF:-1  tvg-name="DEP• ELEVEN SPORTS 1 PT (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="→ DEPORTES LATINOS ←",DEP• ELEVEN SPORTS 1 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/570
+#EXTINF:-1  tvg-name="DEP• ELEVEN SPORTS 2 PT (HD)" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="→ DEPORTES LATINOS ←",DEP• ELEVEN SPORTS 2 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/571
+#EXTINF:-1  tvg-name="DEP• SPORT TV 1 PT (HD)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/sqxxtw1470409111.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 1 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/573
+#EXTINF:-1  tvg-name="DEP• SPORT TV 2 PT (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 2 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/574
+#EXTINF:-1  tvg-name="DEP• SPORT TV 3 PT (HD)" tvg-logo="https://i.postimg.cc/nLnBDGTL/sport-tv3.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 3 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/575
+#EXTINF:-1  tvg-name="DEP• SPORT TV 4 PT (HD)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vuytwx1470409983.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV 4 PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/576
+#EXTINF:-1  tvg-name="DEP• SPORT TV+ PT (HD)" tvg-logo="https://i.postimg.cc/1zWBRdPS/sport-tv-plus.png" group-title="→ DEPORTES LATINOS ←",DEP• SPORT TV+ PT (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/572
+#EXTINF:-1  tvg-name="DEP• EUROSPORT 1 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/577
+#EXTINF:-1  tvg-name="DEP• EUROSPORT 2 (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/578
+#EXTINF:-1  tvg-name="DEP• TUDN MX (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TUDN MX (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/553
+#EXTINF:-1  tvg-name="DEP• TUDN MX (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TUDN MX (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/552
+#EXTINF:-1  tvg-name="DEP• AFIZZIONADOS MX (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• AFIZZIONADOS MX (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/579
+#EXTINF:-1  tvg-name="DEP• GOLF CHANNEL MX (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/549
+#EXTINF:-1  tvg-name="DEP• CLARO SPORTS CO (HD)" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/463
+#EXTINF:-1  tvg-name="DEP• UFC (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC (HD) »1«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/580
+#EXTINF:-1  tvg-name="DEP• UFC (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/2560px-UFC_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC (HD) »2«
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/586
+#EXTINF:-1  tvg-name="DEP• UFC FIGHT PASS (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• UFC FIGHT PASS (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/581
+#EXTINF:-1  tvg-name="DEP• WWE NETWORK (HD)" tvg-logo="https://i.postimg.cc/TwZDh2Wm/WWE-Network-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• WWE NETWORK (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/583
+#EXTINF:-1  tvg-name="DEP• TENNIS CHANNEL (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="→ DEPORTES LATINOS ←",DEP• TENNIS CHANNEL (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/551
+#EXTINF:-1  tvg-name="DEP• COMBATE BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="→ DEPORTES LATINOS ←",DEP• COMBATE BR (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/582
+#EXTINF:-1  tvg-name="DEP• RED BULL TV (HD)" tvg-logo="https://i.postimg.cc/BnB141sf/pngegg-1.png" group-title="→ DEPORTES LATINOS ←",DEP• RED BULL TV (HD)
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/584
+#EXTINF:-1  tvg-name="DEP• TYC SPORTS AR DASH"  group-title="→ DEPORTES LATINOS ←",DEP• TYC SPORTS AR DASH
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+#EXTINF:-1  tvg-name="UNBEATEN FHD"  group-title="→ DEPORTES LATINOS ←",UNBEATEN FHD
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/256396
+#EXTINF:-1  tvg-name="Tennis Channel 2 FHD" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png?v=20210527182106" group-title="→ DEPORTES LATINOS ←",Tennis Channel 2 FHD
+http://myultratv.com:8080/2609mauriciorozasUP/2021@@2609/256409
+#EXTINF:-1  tvg-name="RED BULL TV DASH" tvg-logo="https://pictr.com/images/2023/09/03/EWPVL9.png" group-title="→ DEPORTES LATINOS ←",RED BULL TV DASH
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
